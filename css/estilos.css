@@ -1,0 +1,24 @@
+body {
+    background-image: url('../img/fondo.jpg');
+}
+
+.jumbotron {
+    background-color: #dbf6ff;
+    color: black;
+}
+
+.card-header {
+    background-color: blanchedalmond !important;
+}
+
+.navbar {
+    background-color: #2b2b2b;
+}
+
+.navbar-brand:link, .navbar-brand:visited {
+    color: deepskyblue !important;
+}
+
+.navbar-brand:hover, .navbar-brand:active {
+    color: white !important
+}
